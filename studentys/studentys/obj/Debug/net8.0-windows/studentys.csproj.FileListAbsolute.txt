@@ -1,0 +1,16 @@
+B:\nowalg\studentys\studentys\bin\Debug\net8.0-windows\studentys.exe
+B:\nowalg\studentys\studentys\bin\Debug\net8.0-windows\studentys.deps.json
+B:\nowalg\studentys\studentys\bin\Debug\net8.0-windows\studentys.runtimeconfig.json
+B:\nowalg\studentys\studentys\bin\Debug\net8.0-windows\studentys.dll
+B:\nowalg\studentys\studentys\bin\Debug\net8.0-windows\studentys.pdb
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.Form1.resources
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.csproj.GenerateResource.cache
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.GeneratedMSBuildEditorConfig.editorconfig
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.AssemblyInfoInputs.cache
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.AssemblyInfo.cs
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.csproj.CoreCompileInputs.cache
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.dll
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\refint\studentys.dll
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.pdb
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\studentys.genruntimeconfig.cache
+B:\nowalg\studentys\studentys\obj\Debug\net8.0-windows\ref\studentys.dll
