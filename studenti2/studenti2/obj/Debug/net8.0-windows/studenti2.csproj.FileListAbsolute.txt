@@ -1,0 +1,16 @@
+B:\nowalg\studenti2\studenti2\bin\Debug\net8.0-windows\studenti2.exe
+B:\nowalg\studenti2\studenti2\bin\Debug\net8.0-windows\studenti2.deps.json
+B:\nowalg\studenti2\studenti2\bin\Debug\net8.0-windows\studenti2.runtimeconfig.json
+B:\nowalg\studenti2\studenti2\bin\Debug\net8.0-windows\studenti2.dll
+B:\nowalg\studenti2\studenti2\bin\Debug\net8.0-windows\studenti2.pdb
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.Form1.resources
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.csproj.GenerateResource.cache
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.GeneratedMSBuildEditorConfig.editorconfig
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.AssemblyInfoInputs.cache
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.AssemblyInfo.cs
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.csproj.CoreCompileInputs.cache
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.dll
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\refint\studenti2.dll
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.pdb
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\studenti2.genruntimeconfig.cache
+B:\nowalg\studenti2\studenti2\obj\Debug\net8.0-windows\ref\studenti2.dll
